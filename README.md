@@ -6,7 +6,7 @@
 
 💎 Strong opinions
 
-    Communication is key for success, we should always be on the same page.
+    Communication is key for success.
     “Done” is better than “Perfect”… but we should always try to know what “Perfect” looks like.
     There’s one way to write down dates: YYYY-MM-DD.
 

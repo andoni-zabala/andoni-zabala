@@ -1,6 +1,6 @@
 👋🏽 I’m Andoni Zabala and here you can find a short introduction about myself. I hope you’ll find it useful in case we need to work together.
 
-- 🇦🇷 I’m from Argentina but I really suck at playing fútbol / soccer though I do my best when playing as a defender.
+- 🇦🇷  I’m from Argentina but I really suck at playing fútbol / soccer though I do my best when playing as a defender.
 - :books: In my free time you can usually find me reading about crypto or random things through Reddit.
 
 
